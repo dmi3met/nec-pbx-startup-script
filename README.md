@@ -1,5 +1,5 @@
 # nec-pbx-startup-script
-small Google Spreadsheets script to format NEC PBX settings from table into nec .pcs script
+Google Spreadsheets script to format NEC PBX settings from table into nec .pcs script
 
 this script work with sheet named 'form' contained settings like this:
 
@@ -15,4 +15,4 @@ SL1000*	| | | | |	|
 SL2100|	10-12	|(0,0,0)|	10-12	|(0,0,1)|	10-12	|(0,0,2)
 SV9100|	10-12	|(0,0,0)|	10-12	|(0,0,1)|	10-12	|(0,0,2)
 
-*SL1000 not implemented yet
+*SL1000 is not implemented yet
